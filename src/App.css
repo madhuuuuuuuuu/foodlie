@@ -1,0 +1,55 @@
+.container-fluid{
+  border: 2px solid black;
+  
+}
+
+.col-2{
+  border: 1px solid black;
+
+}
+
+.col-10{
+  border: 1px solid black;
+
+}
+
+.bi-star-fill{
+  color: green;
+}
+
+.image{
+  height: 200px;
+  cursor: pointer;
+}
+
+.flt-button{
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.card-shimmer{
+  border: none;
+}
+
+#Header{
+  background-color: rgba(255, 128, 0, 0.904);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 0px;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  top: 0px;
+  left: 0px;
+}
+
+.location-suggest:hover{
+  background-color: green;
+  cursor: pointer;
+}
+
+.Head{
+  text-decoration: none;
+  color: black;
+}
